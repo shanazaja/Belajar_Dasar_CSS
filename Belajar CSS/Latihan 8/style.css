@@ -1,0 +1,8 @@
+.border{
+    border-collapse: collapse;
+    font-family: verdana;
+}
+
+.first-child{
+    width: 50px;
+}
